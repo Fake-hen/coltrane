@@ -9,7 +9,7 @@ A music calculation library/CLI written in Ruby.
 
 ![Coltrane](img/coltrane-logo.png)
 
-## CLI (Command Line Interface)
+# CLI (Command Line Interface)
 
 ![Screenshot](img/using-coltrane.gif)
 ![Screenshot](img/guitar-chords.png)
